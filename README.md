@@ -1,7 +1,7 @@
 ## Hi there, I'm Maria👋
 
 ### 🌟 About Me  
-I am a dedicated **cybersecurity** and **AI enthusiast**, passionate about developing innovative solutions to protect organizations and individuals in the digital era. As a **Macaulay Honors College** student, I specialize in **Information Risk Management and Cybersecurity**. My professional brand is defined by a drive to solve complex problems, learn continuously, and create tools that make the digital world safer.  
+I am a dedicated **cybersecurity** and **AI enthusiast**, passionate about developing innovative solutions to protect organizations and individuals in the digital era. As a **Baruch College** student, I specialize in **Information Risk Management and Cybersecurity**. My professional brand is defined by a drive to solve complex problems, learn continuously, and create tools that make the digital world safer.  
 
 🏆 **Highlights**:  
 - Winner: **2024 ISACA Cybersecurity Case Study Competition**  
