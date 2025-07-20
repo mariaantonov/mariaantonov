@@ -5,7 +5,7 @@ I am a dedicated **cybersecurity** and **AI enthusiast**, passionate about devel
 
 🏆 **Highlights**:  
 - Winner: **2024 ISACA Cybersecurity Case Study Competition**  
-- **Systems and Applications Intern** at **Metropolitan Transportation Authority**  
+- **Information Security Intern** at **Paramount**  
 - Machine Learning Certificate Holder, **Break Through Tech AI @ Cornell University**  
 
 📫 **Contact Me**:  
